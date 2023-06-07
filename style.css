@@ -1,0 +1,47 @@
+body{
+    background-color: SlateGray;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.email{
+    position: absolute;
+    top: 300px;
+    left: 600px;
+}
+
+.senha{
+    position: absolute;
+    top: 335px;
+    left: 600px;
+}
+
+h1{
+    position: absolute;
+    top: 210px;
+    left: 630px;
+    color: white;
+    font-size: 40px;
+}
+
+.login{
+    width: 23px;
+    position: absolute;
+    top: 299px;
+    left: 570px;
+}
+
+.chave{
+    width: 23px;
+    position: absolute;
+    top: 334px;
+    left: 570px;
+}
+
+button{
+    background-color: lightgray;
+    position: absolute;
+    top: 370px;
+    left: 620px;
+    width: 140px;
+    height: 30px;
+}
